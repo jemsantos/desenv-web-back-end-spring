@@ -1,2 +1,2 @@
 # desenv-web-back-end-spring
-Fontes aulas back-end COTEMIG
+Fontes das aulas de back-end - COTEMIG
